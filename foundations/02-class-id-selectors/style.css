@@ -1,0 +1,26 @@
+.number-odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#number-id {
+    color:  blue;
+    font-size: 36px;
+}
+
+#number-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.number-odd.third {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+
+}
+
+
